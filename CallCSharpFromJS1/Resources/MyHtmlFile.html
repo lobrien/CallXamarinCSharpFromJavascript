@@ -1,0 +1,17 @@
+﻿<html>
+    <head>
+        <title></title>
+        <script type="text/javascript">
+            function callXamObject() {
+                // `myCSharpObject` injected into JS context by C# code `context [(NSString) "myCSharpObject"] = JSValue.From (...etc...`
+                document.getElementById("Output").innerHTML = myCSharpObject.myFunc();
+            }
+        </script>
+    </head>
+    <body>
+        <div onclick="callXamObject()" class="button">
+            Click Me
+        </div>
+        <div id="Output">Value</div>
+    </body>
+</html>

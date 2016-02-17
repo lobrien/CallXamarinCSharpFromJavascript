@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="CallCSharpFromJS1/CallCSharpFromJS1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CallCSharpFromJS1/Main.cs">
+    <Files>
+      <File FileName="CallCSharpFromJS1/Main.cs" Line="82" Column="1" />
+      <File FileName="CallCSharpFromJS1/Resources/MyHtmlFile.html" Line="17" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
